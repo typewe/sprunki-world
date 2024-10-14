@@ -1,0 +1,16 @@
+{
+  "name": "sprunki-world",
+  "version": "1.0.0",
+  "description": "SprunkiWorld.com: Sprunki World is another version of the Sprunki game series, combined with Dandy's World and using Dandy's World characters.",
+  "main": "index.js",
+  "bin": {
+    "sprunki-world": "./index.js"
+  },
+  "keywords": [
+    "sprunki",
+    "world",
+    "sprunki world"
+  ],
+  "author": "sprunki",
+  "license": "ISC"
+}
