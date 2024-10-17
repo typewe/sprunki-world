@@ -1,6 +1,6 @@
-# sprunki-world
+# [Sprunki World](https://sprunkiworld.com/)
 
-Sprunki World: https://sprunkiworld.com/
+URL: https://sprunkiworld.com/
 
 ```
 $ npm install -g sprunki-world
